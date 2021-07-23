@@ -12,3 +12,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to dance and to travel.
 
+## My Github Stats
+[![Tejashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejashri-110)](https://github.com/tejashri-110/github-readme-stats)
+
+
