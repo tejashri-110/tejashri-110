@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about basic app and web development.
-- 📫 How to reach me: <img src="{https://img.shields.io/badge/tejashri-mitbavkar-bb3871192/?style=for-the-badge&logo=linkedin&logoColor=white}" />
+- 📫 How to reach me: ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) https://www.linkedin.com/in/tejashri-mitbavkar-bb3871192/
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to dance and to travel.
 
