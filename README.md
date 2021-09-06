@@ -1,4 +1,4 @@
-### Heyaaa 👋
+### Heyaaaa 👋
 
 <!-- 
 **tejashri-110/tejashri-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
